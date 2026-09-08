@@ -1,5 +1,11 @@
 # Gina Travel Agent (MVP)
 
+## 🔗 지금 접속해보기
+
+**[https://bristol-everyone-officer-yards.trycloudflare.com](https://bristol-everyone-officer-yards.trycloudflare.com)**
+
+이메일/비밀번호로 회원가입하면 바로 대화할 수 있다. 임시 터널(`cloudflared`)로 공개한 것이라 컴퓨터를 끄거나 터널을 재시작하면 이 링크는 만료된다 — 그때는 이 섹션의 URL을 새 값으로 갱신할 것.
+
 AI 여행 상담원 Gina. 코어(의도 분석+고객 메모리+페르소나+답변 생성)는 세 가지 채널로 쓸 수 있다: 터미널 CLI(테스트/개발용), 웹 채팅(Supabase 계정으로 로그인, 여러 사람이 접속), Instagram DM(실제 채널, 웹훅 기반).
 
 ## 포함된 것
